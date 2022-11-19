@@ -1,0 +1,15 @@
+C:\Users\moust\source\repos\TrouverLeNombre\bin\Debug\net6.0\TrouverLeNombre.exe
+C:\Users\moust\source\repos\TrouverLeNombre\bin\Debug\net6.0\TrouverLeNombre.deps.json
+C:\Users\moust\source\repos\TrouverLeNombre\bin\Debug\net6.0\TrouverLeNombre.runtimeconfig.json
+C:\Users\moust\source\repos\TrouverLeNombre\bin\Debug\net6.0\TrouverLeNombre.dll
+C:\Users\moust\source\repos\TrouverLeNombre\bin\Debug\net6.0\TrouverLeNombre.pdb
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.csproj.AssemblyReference.cache
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.AssemblyInfoInputs.cache
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.AssemblyInfo.cs
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.csproj.CoreCompileInputs.cache
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.dll
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\refint\TrouverLeNombre.dll
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.pdb
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\TrouverLeNombre.genruntimeconfig.cache
+C:\Users\moust\source\repos\TrouverLeNombre\obj\Debug\net6.0\ref\TrouverLeNombre.dll
